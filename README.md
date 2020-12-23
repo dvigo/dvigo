@@ -22,7 +22,7 @@ const dvigo = {
         },
         mobile:['Flutter', 'Ionic'],
         devOps: ['Heroku', 'Docker🐳'],
-        databases: ['Postgres', 'Microsoft SQL Server', 'MongoDB', 'MySQL],
+        databases: ['Postgres', 'Microsoft SQL Server', 'MongoDB', 'MySQL'],
         misc: ['Git']
     }
 }
