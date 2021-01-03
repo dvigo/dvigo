@@ -31,4 +31,4 @@ const dvigo = {
 ### My Stats
 ![David Vigo Stats](https://github-readme-stats.vercel.app/api?username=dvigo&show_icons=true&hide_border=true&hide=issues&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvigo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvigo&layout=compact)
