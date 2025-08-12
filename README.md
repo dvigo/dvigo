@@ -25,7 +25,7 @@ Me encanta colaborar en proyectos open-source y mejorar cada día.
 
 ## 🛠️ Tecnologías y herramientas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
